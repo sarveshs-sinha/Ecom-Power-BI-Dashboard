@@ -8,6 +8,8 @@ The dashboard helps users explore business performance using **interactive chart
 
 **Sinha Ecommerce Sales Dashboard**
 
+<img width="2968" height="1661" alt="edited-photo (1)" src="https://github.com/user-attachments/assets/d34dd82f-1d0d-4de8-9e0b-c085f9a77feb" />
+
 The dashboard provides an interactive view of:
 
 * 💰 Total Sales
